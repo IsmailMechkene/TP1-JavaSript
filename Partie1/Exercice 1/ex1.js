@@ -12,4 +12,4 @@ console.log("Outside block:", c); // c is not defined
 
 
 const c = 50;
-c = 60; // cant assign to constant variable
+c = 60; // cant assign to a constant variable
